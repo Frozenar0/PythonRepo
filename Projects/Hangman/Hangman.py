@@ -103,5 +103,5 @@ def main_loop():
             two_player_hangman()
 
 
-
+#testing stuff up until now, this will print a dictionary in which the keys are the individual letters of a word chosen randomly, and the values are empty spaces
 print(dictionary_generator(word_chooser(1)))
